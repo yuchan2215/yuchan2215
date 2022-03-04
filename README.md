@@ -1,16 +1,13 @@
 ### Hi there 👋
+![age:19](https://img.shields.io/badge/age-19-brightgreen?style=for-the-badge)
+![job](https://img.shields.io/badge/job-Technical%20college%20second--year%20student-brightgreen?style=for-the-badge)
 
-<!--
-**yuchan2215/yuchan2215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+![Best:Kotlin,Java,JavaSctipt](https://img.shields.io/badge/Best-Kotlin,Java,JavaSctipt-brightgreen?style=for-the-badge)
+![Good:HTML,CSS,PHP,Python](https://img.shields.io/badge/Good-HTML,CSS,PHP,Python-green?style=for-the-badge)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+ - ITパスポート (中3)
+ - 基本情報処理技術者 (高2)
+ - JavaSilverSE11 (高3)
+ - 応用情報処理技術者 (専2春受験予定)
