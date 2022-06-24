@@ -1,10 +1,10 @@
-### Hi there 👋
-![age:19](https://img.shields.io/badge/age-19-brightgreen?style=for-the-badge)
-![job](https://img.shields.io/badge/job-Technical%20college%20second--year%20student-brightgreen?style=for-the-badge)
+[![badge](https://github-readme-stats.vercel.app/api?username=yuchan2215&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan2215&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages
-![Best:Kotlin,Java,JavaSctipt](https://img.shields.io/badge/Best-Kotlin,Java,JavaSctipt-brightgreen?style=for-the-badge)
-![Good:HTML,CSS,PHP,Python](https://img.shields.io/badge/Good-HTML,CSS,PHP,Python-green?style=for-the-badge)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuchan2215)](https://github.com/yuchan2215/github-profile-trophy)
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/yuu1111main/posts.svg)](http://qiita.com/yuu1111main)
+
 
 ### Certifications
  - ITパスポート (中3)
