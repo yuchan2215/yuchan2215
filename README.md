@@ -10,7 +10,7 @@
  - ITパスポート (中3)
  - 基本情報処理技術者 (高2)
  - JavaSilverSE11 (高3)
- - 応用情報処理技術者 (専2春受験予定)
+ - 応用情報処理技術者 (専2)
 
 ### Portfolio
 https://lavish-bongo-2de.notion.site/0ed4f4348a344488b9166dfd96d200e9
