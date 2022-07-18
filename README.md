@@ -14,3 +14,8 @@
 
 ### Portfolio
 https://lavish-bongo-2de.notion.site/0ed4f4348a344488b9166dfd96d200e9
+
+
+### Study
+学習用のGitHubはこちらです
+https://github.com/yuchan-2215
